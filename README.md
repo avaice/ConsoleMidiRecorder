@@ -5,6 +5,8 @@ A Midi Recorder on CUI.
 主にハードウェア音源での簡易的な録音を想定しています。  
 VST MIDISynthのようなソフトウェアMIDIデバイスも、お使いのサウンドカードにループバック機能が付いていれば使用できます。
 
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/2e3B7bfDwz">pic.twitter.com/2e3B7bfDwz</a></p>&mdash; あいす (@_avaice) <a href="https://twitter.com/_avaice/status/1565741944373817344?ref_src=twsrc%5Etfw">September 2, 2022</a></blockquote>
+
 # Download
 <a href="https://cho-ice.xyz/files/CMR_102.zip">Ver 1.0.2.0</a> (Windows XP-)
 
