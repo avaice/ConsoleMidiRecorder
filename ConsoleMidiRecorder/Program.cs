@@ -181,8 +181,16 @@ namespace ConsoleMidiRecorder
 
             waveWriter.Close();
 
-            Console.WriteLine("Successful! Press any key to exit...");
-            Console.ReadKey();
+            if(args.Length > 0)
+            {
+                Console.WriteLine("Successful! Press any key to exit...");
+                Console.ReadKey();
+            }
+            else
+            {
+                Console.WriteLine("Successful!");
+            }
+            
 
             Environment.Exit(0);
 
