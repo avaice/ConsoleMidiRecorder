@@ -9,7 +9,7 @@ VST MIDISynthのようなソフトウェアMIDIデバイスも、お使いのサ
 <a href="https://cho-ice.xyz/files/CMR_100.zip">Ver 1.0.0.0</a> (Windows XP-)
 
 # Usage
-`./ConsoleMidiRecorder [inputfile] [outputfile] [midi-port] [recording-device-port] [freq(optional)]`
+`./ConsoleMidiRecorder [inputfile(smf)] [outputfile(wav)] [midi-port] [recording-device-port] [freq(optional)]`
 
 # License
 ソースコード・バイナリのいずれも、商用・非商用を問わずご自由にお使いください。
