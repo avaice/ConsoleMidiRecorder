@@ -11,5 +11,8 @@ VST MIDISynthのようなソフトウェアMIDIデバイスも、お使いのサ
 # Usage
 `./ConsoleMidiRecorder [inputfile] [outputfile] [midi-port] [recording-device-port] [freq(optional)]`
 
+# License
+ソースコード・バイナリのいずれも、商用・非商用を問わずご自由にお使いください。
+
 # Contact
 https://twitter.com/_avaice
