@@ -6,7 +6,7 @@ A Midi Recorder on CUI.
 VST MIDISynthのようなソフトウェアMIDIデバイスも、お使いのサウンドカードにループバック機能が付いていれば使用できます。
 
 # Download
-<a href="https://cho-ice.xyz/files/CMR_101.zip">Ver 1.0.1.0</a> (Windows XP-)
+<a href="https://cho-ice.xyz/files/CMR_102.zip">Ver 1.0.2.0</a> (Windows XP-)
 
 # Usage
 `./ConsoleMidiRecorder [inputfile(smf)] [outputfile(wav)] [midi-port] [recording-device-port] [freq(optional)]`
